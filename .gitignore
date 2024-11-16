@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Backup files
+*.bak
+*.old
+
+# Ignore certain file types
+*.json
+*.md
